@@ -6,5 +6,8 @@
         "prettier",
         "prettier/@typescript-eslint",
         "prettier/react"
-    ]
+    ],
+    "globals": {
+        "HermesInternal": true
+    }
 }
